@@ -6,7 +6,7 @@
  * @c: The character to print
  * Return: On success 1.
  * On error, -1 is returned, and errno is set appropriately.
-[2;2R[>77;30601;0c]10;rgb:bfbf/bfbf/bfbf]11;rgb:0000/0000/0000 * Description: _putchar uses a local buffer of 1024 to call write
+ * Description: _putchar uses a local buffer of 1024 to call write
  * as little as possible
  */
 int _putchar(char c)
